@@ -1,6 +1,7 @@
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ffe275d4-9c95-4e61-95b3-b01305a99d53"/>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280"/>
+    
 </div>
 
 <h1 align="center">
