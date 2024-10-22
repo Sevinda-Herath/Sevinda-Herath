@@ -5,17 +5,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Sevinda+Herath!;" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <div align="center">
     <img src = "https://github.com/user-attachments/assets/fc2aedc0-227b-4a6f-9833-730c2969e950" width = "65">
@@ -26,7 +15,23 @@
     <img src = "https://github.com/user-attachments/assets/d24674ba-c4e1-4edd-a2ee-f7b72df20b4c" width = "60">
     <img src = "https://github.com/user-attachments/assets/2cbe786c-e0d0-4260-bc39-211c5d9f2c89" width = "60">    
 </div>
-
+<br/>
+<br/>
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <h2>About Me</h2>
+      <p>
+        This is the text that goes on the left side. You can describe your project, give information, or add anything else that fits your needs. Markdown will still work within this HTML table.
+      </p>
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="400px" height="auto">
+    </td>
+  </tr>
+</table>
+<br/>
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -44,5 +49,22 @@
     <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevinda-herath&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
+
+
+
+
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <h2>About Me</h2>
+      <p>
+        This is the text that goes on the left side. You can describe your project, give information, or add anything else that fits your needs. Markdown will still work within this HTML table.
+      </p>
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="300px" height="auto">
+    </td>
+  </tr>
+</table>
 
 
