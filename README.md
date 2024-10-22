@@ -30,18 +30,17 @@
       </p>
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="400px" height="auto">
+      <img src="https://github.com/user-attachments/assets/e860bc36-7e9d-4e7f-9ade-5445520ef023" alt="GIF description" width="450px" height="auto">
     </td>
   </tr>
 </table>
 
 <br/>
-<br/>
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 20px;">
-      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="300px" height="auto">
+      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="400px" height="auto">
     </td>
     <td style="border: none; vertical-align: top;">
       <h2>Title of the Section</h2>
@@ -53,7 +52,6 @@
 </table>
 
 <br/>
-<br/>
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -64,11 +62,13 @@
       </p>
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="400px" height="auto">
+      <img src="https://github.com/user-attachments/assets/96413e9b-7a46-4f8b-999e-fb1c2a646fbf" alt="GIF description" width="500px" height="auto">
     </td>
   </tr>
 </table>
 
+<br/>
+<br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -77,10 +77,12 @@
   <br/><br/><br/>
 </div>
 
+<br/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sevinda-herath&theme=gotham&rank_icon=github&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sevinda-herath&theme=gotham&rank_icon=github&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="streak stats"/> &nbsp;&nbsp;&nbsp;
   <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=sevinda-herath&theme=gotham&hide_border=false&border_radius=10" alt="streak stats"/>
     <br/>
     <br/>
