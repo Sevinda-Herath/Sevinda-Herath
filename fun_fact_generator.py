@@ -17,17 +17,41 @@ fun_facts = [
 # Select a random fun fact
 selected_fact = random.choice(fun_facts)
 
+# Debug: Print the selected fact to verify
+print(f"Selected fun fact: {selected_fact}")
+
 # Read the current README.md file
 with open("README.md", "r") as file:
     readme_content = file.read()
+
+# Debug: Print the content of README.md before updating
+print("Original README.md content:")
+print(readme_content)
 
 # Define the section markers
 start_marker = "<!-- FUN_FACT_SECTION -->"
 end_marker = "<!-- END_FUN_FACT_SECTION -->"
 
-# Replace the placeholder with the new fun fact
-new_readme_content = readme_content.split(start_marker)[0] + start_marker + "\n\n" + selected_fact + "\n\n" + end_marker + readme_content.split(end_marker)[1]
+# Ensure the markers exist
+if start_marker in readme_content and end_marker in readme_content:
+    # Replace the placeholder with the new fun fact
+    new_readme_content = (
+        readme_content.split(start_marker)[0]
+        + start_marker
+        + "\n\n"
+        + selected_fact
+        + "\n\n"
+        + end_marker
+        + readme_content.split(end_marker)[1]
+    )
 
-# Write the updated content back to README.md
-with open("README.md", "w") as file:
-    file.write(new_readme_content)
+    # Debug: Print the updated content
+    print("Updated README.md content:")
+    print(new_readme_content)
+
+    # Write the updated content back to README.md
+    with open("README.md", "w") as file:
+        file.write(new_readme_content)
+else:
+    # Debug: Log if markers are not found
+    print(f"Markers not found in README.md! Ensure the markers {start_marker} and {end_marker} exist.")
