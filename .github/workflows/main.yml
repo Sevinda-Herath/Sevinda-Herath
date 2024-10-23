@@ -1,23 +1,24 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: Generate Snake and Update Fun Fact
 
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
+      # every 12 hours for the snake animation and daily for the fun fact
+    - cron: "0 */12 * * *"  # Run every 12 hours
+    - cron: "0 0 * * *"     # Run daily at midnight UTC for fun fact update
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
     - main
 
 # The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
+  # Job for generating the snake animation
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -50,3 +51,36 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Job for updating the Fun Fact in the README.md file
+  update_fun_fact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (if needed)
+        run: |
+          pip install -r requirements.txt  # Add if you need to install dependencies
+
+      - name: Run Fun Fact Generator
+        run: |
+          python fun_fact_generator.py
+
+      - name: Commit changes to README.md
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update fun fact section"
+          git push
+
+      # Optional: Check the content of README.md for debugging
+      - name: Display README.md content
+        run: cat README.md
