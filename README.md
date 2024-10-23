@@ -26,7 +26,7 @@
     <td style="border: none; vertical-align: top; padding-right: 20px;">
       <h2>About Me</h2>
       <p>
-        This is the text that goes on the left side. You can describe your project, give information, or add anything else that fits your needs. Markdown will still work within this HTML table.
+        Passionate Cybersecurity and AI enthusiast. Fueled by curiosity and a commitment to creating impact, I am devoted to shaping a future that is both secure and intelligent.
       </p>
     </td>
     <td style="border: none; vertical-align: top;">
