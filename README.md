@@ -47,8 +47,8 @@
       <!-- This section is to be dynamically updated -->
       <p>
         <!-- FUN_FACT_SECTION -->
-A day on Venus is longer than a year on Venus.
-<!-- END_FUN_FACT_SECTION -->
+        A day on Venus is longer than a year on Venus.
+        <!-- END_FUN_FACT_SECTION -->
      </p>
     </td>
   </tr>
