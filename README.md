@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Rats and mice are ticklish and enjoy being tickled.
+A giraffe’s tongue is so long it can lick its own ears.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
@@ -59,10 +59,15 @@ Rats and mice are ticklish and enjoy being tickled.
       <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="300px" height="auto">
     </td>
     <td style="border: none; vertical-align: top; width: 600px;">
-      <h2>Fun Fact of the Day</h2>  
+      <h2>Contact Me</h2> 
         <p>
-            Passionate Cybersecurity and AI enthusiast. Fueled by curiosity and a commitment to creating impact, I am devoted to shaping a future that is both secure and intelligent. 
-        </p>
+        <strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a><br/>
+        <strong>Phone:</strong> <a href="tel:+1234567890">+1 (234) 567-890</a><br/>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="_blank">Your LinkedIn Profile</a><br/>
+        <strong>Discord:</strong> <a href="https://discordapp.com/users/your-discord-id" target="_blank">Your Discord ID</a><br/>
+        <strong>Twitter:</strong> <a href="https://twitter.com/your-twitter" target="_blank">@your-twitter</a><br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </p>    
     </td>
   </tr>
 </table>
