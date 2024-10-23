@@ -44,16 +44,16 @@
     </td>
     <td style="border: none; vertical-align: top;">
       <h2>Fun Fact of the Day</h2>
+      <!-- This section is to be dynamically updated -->
       <p>
-        ## Fun Fact of the Day
-
-<!-- FUN_FACT_SECTION -->
-Loading today's fun fact...
-<!-- END_FUN_FACT_SECTION -->
+        <!-- FUN_FACT_SECTION -->
+        Loading today's fun fact...
+        <!-- END_FUN_FACT_SECTION -->
       </p>
     </td>
   </tr>
 </table>
+
 
 <br/>
 
