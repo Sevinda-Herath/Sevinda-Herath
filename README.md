@@ -47,9 +47,7 @@
       <!-- This section is to be dynamically updated -->
       <p>
         <!-- FUN_FACT_SECTION -->
-
-There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times.
-
+A day on Venus is longer than a year on Venus.
 <!-- END_FUN_FACT_SECTION -->
      </p>
     </td>
