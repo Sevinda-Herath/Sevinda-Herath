@@ -47,8 +47,10 @@
       <!-- This section is to be dynamically updated -->
       <p>
         <!-- FUN_FACT_SECTION -->
-        Loading today's fun fact...
-        <!-- END_FUN_FACT_SECTION -->
+
+Bananas are berries, but strawberries aren't.
+
+<!-- END_FUN_FACT_SECTION -->
       </p>
     </td>
   </tr>
