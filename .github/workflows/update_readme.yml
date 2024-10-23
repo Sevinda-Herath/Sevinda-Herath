@@ -1,5 +1,6 @@
 name: Update Fun Fact in README
 
+
 on:
   schedule:
     # Run at 00:00 UTC every day
@@ -30,3 +31,7 @@ jobs:
         git add README.md
         git commit -m "Update fun fact section"
         git push
+    - name: Debug Script Output
+      run: |
+        python fun_fact_generator.py
+        cat README.md  # Check the content of README.md after the script runs
