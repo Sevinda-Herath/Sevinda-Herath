@@ -43,9 +43,13 @@
       <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="300px" height="auto">
     </td>
     <td style="border: none; vertical-align: top;">
-      <h2>About Me</h2>
+      <h2>Fun Fact of the Day</h2>
       <p>
-        Passionate Cybersecurity and AI enthusiast. Fueled by curiosity and a commitment to creating impact, I am devoted to shaping a future that is both secure and intelligent. 
+        ## Fun Fact of the Day
+
+<!-- FUN_FACT_SECTION -->
+Loading today's fun fact...
+<!-- END_FUN_FACT_SECTION -->
       </p>
     </td>
   </tr>
