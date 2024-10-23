@@ -6,7 +6,7 @@ on:
   schedule:
       # every 12 hours for the snake animation and daily for the fun fact
     - cron: "0 */12 * * *"  # Run every 12 hours
-    - cron: "0 0 * * *"     # Run daily at midnight UTC for fun fact update
+    - cron: "*/1 * * * *"    # Run every minute for fun fact update
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
