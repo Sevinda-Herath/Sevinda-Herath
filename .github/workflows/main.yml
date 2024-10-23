@@ -65,9 +65,9 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies (if needed)
-        run: |
-          pip install -r requirements.txt  # Add if you need to install dependencies
+      # - name: Install dependencies (if needed)
+      #   run: |
+      #     pip install -r requirements.txt  # Add if you need to install dependencies
 
       - name: Run Fun Fact Generator
         run: |
