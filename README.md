@@ -47,8 +47,10 @@
       <!-- This section is to be dynamically updated -->
       <p>
         <!-- FUN_FACT_SECTION -->
-        Bananas are berries, but strawberries aren't.
-        <!-- END_FUN_FACT_SECTION -->
+
+There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times.
+
+<!-- END_FUN_FACT_SECTION -->
      </p>
     </td>
   </tr>
