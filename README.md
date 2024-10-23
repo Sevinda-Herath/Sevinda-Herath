@@ -20,23 +20,6 @@
 <br/>
 <br/>
 
-<h2 align="center">Fun Fact of the Day</h2>
-<div align="center">
-<table>
-  <tr>
-    <td style="text-align: center; padding: 20px;">
-      <!-- FUN_FACT_SECTION -->
-Humans share 50% of their DNA with bananas.
-<!-- END_FUN_FACT_SECTION -->
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-<br/>
-
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 20px;">
@@ -50,7 +33,24 @@ Humans share 50% of their DNA with bananas.
     </td>
   </tr>
 </table>
+<br/>
+<br/>
 
+<h2 align="center">Fun Fact of the Day</h2>
+<div align="center">
+    <br/>
+<table>
+  <tr>
+    <td style="text-align: center; padding: 20px;">
+      <!-- FUN_FACT_SECTION -->
+Humans share 50% of their DNA with bananas.
+<!-- END_FUN_FACT_SECTION -->
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
 <br/>
 
 <table style="width:100%; border-collapse: collapse; border: none;">
