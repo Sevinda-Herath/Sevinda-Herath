@@ -39,17 +39,16 @@
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none; vertical-align: top; padding-right: 20px;">
+    <td style="border: none; vertical-align: top; padding-right: 20px; width: 300px;">
       <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="300px" height="auto">
     </td>
-    <td style="border: none; vertical-align: top;">
+    <td style="border: none; vertical-align: top; width: 600px;">
       <h2>Fun Fact of the Day</h2>
-      <!-- This section is to be dynamically updated -->
       <p>
         <!-- FUN_FACT_SECTION -->
-Octopuses have three hearts.
-<!-- END_FUN_FACT_SECTION -->
-     </p>
+        Bananas are berries, but strawberries aren't.
+        <!-- END_FUN_FACT_SECTION -->
+      </p>
     </td>
   </tr>
 </table>
