@@ -30,7 +30,7 @@
       </p>
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/e860bc36-7e9d-4e7f-9ade-5445520ef023" alt="GIF description" width="450px" height="auto">
+      <img src="https://github.com/user-attachments/assets/e860bc36-7e9d-4e7f-9ade-5445520ef023" alt="GIF description" width="300px" height="auto">
     </td>
   </tr>
 </table>
@@ -40,12 +40,12 @@
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 20px;">
-      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="400px" height="auto">
+      <img src="https://github.com/user-attachments/assets/1d3dfb3e-9ff3-408d-a145-5e1437bf8307" alt="GIF description" width="300px" height="auto">
     </td>
     <td style="border: none; vertical-align: top;">
-      <h2>Title of the Section</h2>
+      <h2>About Me</h2>
       <p>
-        This is the text that goes on the right side. You can describe your project, give information, or add anything else that fits your needs. Markdown will still work within this HTML table.
+        Passionate Cybersecurity and AI enthusiast. Fueled by curiosity and a commitment to creating impact, I am devoted to shaping a future that is both secure and intelligent. 
       </p>
     </td>
   </tr>
@@ -62,7 +62,7 @@
       </p>
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/96413e9b-7a46-4f8b-999e-fb1c2a646fbf" alt="GIF description" width="500px" height="auto">
+      <img src="https://github.com/user-attachments/assets/96413e9b-7a46-4f8b-999e-fb1c2a646fbf" alt="GIF description" width="300px" height="auto">
     </td>
   </tr>
 </table>
