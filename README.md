@@ -46,8 +46,8 @@
       <h2>Fun Fact of the Day</h2>
       <p>
         <!-- FUN_FACT_SECTION -->
-        Bananas are berries, but strawberries aren't.
-        <!-- END_FUN_FACT_SECTION -->
+Humans share 50% of their DNA with bananas.
+<!-- END_FUN_FACT_SECTION -->
       </p>
     </td>
   </tr>
