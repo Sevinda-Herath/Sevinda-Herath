@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Bees communicate by dancing.
+Wombat poop is cube-shaped.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
