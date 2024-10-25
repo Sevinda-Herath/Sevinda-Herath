@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-In a room of 23 people, there's a 50% chance two people share the same birthday.
+Some species of bats can live for more than 30 years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
