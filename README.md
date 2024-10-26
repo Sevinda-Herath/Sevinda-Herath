@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Polar bear fur is actually transparent, not white.
+Penguins can leap up to 9 feet out of the water.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
