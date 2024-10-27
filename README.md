@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Tigers have striped skin, not just striped fur.
+There’s a species of frog that can freeze without dying.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
