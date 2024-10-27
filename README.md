@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A snail's mouth is no larger than the head of a pin, but it can contain over 25,000 teeth.
+A flamingo can only eat when its head is upside down.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
