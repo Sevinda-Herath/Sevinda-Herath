@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Tomatoes were once considered poisonous in Europe.
+Ants can carry up to 50 times their own body weight.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
