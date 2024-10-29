@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of jellyfish is called a 'smack.'
+Humans share around 60% of their DNA with fruit flies.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
