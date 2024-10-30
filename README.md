@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A goldfish can live up to 40 years.
+Elephants are the only animals that can't jump.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
