@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-There are more stars in space than there are grains of sand on every beach on Earth.
+Bananas are naturally radioactive due to their potassium content.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
