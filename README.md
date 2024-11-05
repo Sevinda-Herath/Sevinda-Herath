@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea stars (starfish) have no brains and no blood.
+Pigeons can learn to recognize all 26 letters of the English alphabet.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
