@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-You can hear a blue whale's heartbeat from over 2 miles away.
+Pigeons can recognize themselves in a mirror.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
