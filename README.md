@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Pigeons can learn to recognize all 26 letters of the English alphabet.
+It would take 1,200,000 mosquitoes to fully drain a human of blood.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
