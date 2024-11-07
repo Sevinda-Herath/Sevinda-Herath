@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Honey never spoils—it’s been found in ancient Egyptian tombs and is still edible.
+Pigeons can learn to recognize all 26 letters of the English alphabet.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
