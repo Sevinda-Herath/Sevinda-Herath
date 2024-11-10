@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
+A snail's mouth is no larger than the head of a pin, but it can contain over 25,000 teeth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
