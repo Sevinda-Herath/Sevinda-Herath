@@ -61,7 +61,7 @@ Crocodiles can go for months without eating a meal.
     <td style="border: none; vertical-align: top; width: 600px;">
       <h2>Contact Me</h2> 
         <p>
-        <strong>Website:</strong> <a href="sevinda-herath.github.io">sevinda-herath.github.io</a><br/>
+        <strong>Website:</strong> <a href="sevinda-herath.github.io">https://sevinda-herath.github.io</a><br/>
         <strong>Email:</strong> <a href="mailto:sevindaherath@gmail.com"target="_blank">sevindaherath@gmail.com</a><br/>
         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sevindaherath/" target="_blank">Sevinda Herath</a><br/>
         <strong>Discord:</strong> <a href="https://discord.com/users/1269947570214535301" target="_blank">Sevinda Herath</a><br/>
