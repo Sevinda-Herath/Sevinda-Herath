@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average human body contains enough fat to make seven bars of soap.
+The moon has moonquakes, just as Earth has earthquakes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
