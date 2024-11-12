@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Wolves can communicate through facial expressions.
+There are more bacteria in your mouth than there are people on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
