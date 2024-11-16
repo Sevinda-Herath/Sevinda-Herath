@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A kangaroo can't hop if its tail is lifted off the ground.
+Butterflies can see ultraviolet light.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
