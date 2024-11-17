@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cockroach can live for a week without its head.
+Some cats are allergic to humans.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
