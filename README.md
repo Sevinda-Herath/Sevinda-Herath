@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A bolt of lightning contains enough energy to toast 100,000 slices of bread.
+A human sneeze can travel at up to 100 miles per hour.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
