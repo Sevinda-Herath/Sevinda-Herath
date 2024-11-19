@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The pupil of a goat’s eye is rectangular, not round.
+An ostrich's eye is bigger than its brain.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
