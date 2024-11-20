@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Kangaroos can't walk backward.
+A group of ferrets is called a 'business.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
