@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An ostrich's eye is bigger than its brain.
+The praying mantis is the only insect that can turn its head from side to side.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
