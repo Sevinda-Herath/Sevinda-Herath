@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The word 'dreamt' is the only word in the English language that ends with 'mt.'
+There are more stars in space than there are grains of sand on every beach on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
