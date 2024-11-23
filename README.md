@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Male lions sleep up to 20 hours a day.
+The world's largest snowflake on record was 15 inches wide and 8 inches thick.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
