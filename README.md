@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cockroach can live for a week without its head.
+Bananas are naturally radioactive due to their potassium content.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
