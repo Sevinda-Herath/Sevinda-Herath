@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Hummingbirds flap their wings about 80 times per second.
+A group of crows is called a 'murder.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
