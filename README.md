@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The largest snowflake ever recorded was 15 inches wide.
+Honey never spoils—it’s been found in ancient Egyptian tombs and is still edible.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
