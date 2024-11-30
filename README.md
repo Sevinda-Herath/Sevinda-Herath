@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The shortest complete sentence in the English language is 'Go.'
+Humans and giraffes have the same number of neck vertebrae—seven.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
