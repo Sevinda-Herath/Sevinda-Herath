@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-It would take 1,200,000 mosquitoes to fully drain a human of blood.
+Hummingbirds flap their wings about 80 times per second.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
