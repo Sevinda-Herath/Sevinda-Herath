@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The word 'dreamt' is the only word in the English language that ends with 'mt.'
+Cats have over 100 vocal sounds, while dogs have only about 10.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
