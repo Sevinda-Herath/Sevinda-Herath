@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Cats have over 100 vocal sounds, while dogs have only about 10.
+Squirrels plant thousands of new trees each year simply by forgetting where they buried their acorns.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
