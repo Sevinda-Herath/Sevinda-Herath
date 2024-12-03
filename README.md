@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of giraffes is called a 'tower.'
+The largest living organism is a fungus in Oregon, covering over 2,385 acres.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
