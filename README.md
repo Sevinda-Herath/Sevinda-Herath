@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
+An octopus's blood is blue due to high copper levels.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
