@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus has nine brains—one central brain and one for each arm.
+The electric eel can produce a shock of up to 600 volts.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
