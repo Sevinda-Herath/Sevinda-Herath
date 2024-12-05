@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can leap up to 9 feet out of the water.
+Tigers are excellent swimmers and can swim several kilometers at a time.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
