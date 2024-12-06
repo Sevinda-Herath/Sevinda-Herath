@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Squirrels plant thousands of new trees each year simply by forgetting where they buried their acorns.
+A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
