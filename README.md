@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some cats are allergic to humans.
+Some turtles can breathe through their skin.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
