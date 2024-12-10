@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Jellyfish are considered biologically immortal—they don't age and can regenerate cells.
+An ant can survive underwater for up to 24 hours.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
