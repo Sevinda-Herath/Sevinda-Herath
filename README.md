@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Polar bear fur is actually transparent, not white.
+Humans can’t breathe and swallow at the same time.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
