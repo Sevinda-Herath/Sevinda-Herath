@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Ants can carry up to 50 times their own body weight.
+Turtles can breathe through their butts.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
