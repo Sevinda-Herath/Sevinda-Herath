@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can leap up to 9 feet out of the water.
+Pigeons can recognize themselves in a mirror.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
