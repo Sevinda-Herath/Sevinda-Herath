@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A day on Venus is longer than a year on Venus.
+The male seahorse is the one that gives birth, not the female.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
