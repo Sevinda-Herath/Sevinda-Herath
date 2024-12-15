@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-In a room of 23 people, there's a 50% chance two people share the same birthday.
+The Eiffel Tower can grow more than 6 inches during summer due to heat expansion.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
