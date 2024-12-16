@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The Eiffel Tower was initially meant to be dismantled after 20 years.
+A day on Venus is longer than a year on Venus.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
