@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans share 60% of their DNA with bananas.
+Tigers' skin is striped, just like their fur.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
