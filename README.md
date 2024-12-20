@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The light from the sun takes about 8 minutes to reach Earth.
+Snails can sleep for up to three years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
