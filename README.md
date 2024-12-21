@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Hummingbirds flap their wings about 80 times per second.
+The smell of freshly cut grass is actually a plant distress call.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
