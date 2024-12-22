@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The giant squid has the largest eyes in the animal kingdom, up to 10 inches in diameter.
+Cows can produce more milk when they listen to slow music.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
