@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The Eiffel Tower can grow more than 6 inches during summer due to heat expansion.
+The praying mantis is the only insect that can turn its head from side to side.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
