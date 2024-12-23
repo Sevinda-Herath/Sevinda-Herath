@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The heart of a shrimp is located in its head.
+Seahorses mate for life, and the males carry the babies.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
