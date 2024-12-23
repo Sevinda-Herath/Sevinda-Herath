@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A shrimp's heart is located in its head.
+A bolt of lightning is five times hotter than the surface of the sun.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
