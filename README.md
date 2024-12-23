@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Frogs can't vomit—if they need to, they eject their entire stomach.
+The average person walks the equivalent of five times around the world in their lifetime.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
