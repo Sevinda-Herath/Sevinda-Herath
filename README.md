@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus's blood is blue due to high copper levels.
+Snakes can help predict earthquakes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
