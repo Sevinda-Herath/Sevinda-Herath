@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Mosquitoes are attracted to people who have just eaten bananas.
+A rhinoceros's horn is made of hair.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
