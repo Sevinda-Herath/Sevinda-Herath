@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The 'M’s in M&M’s stand for Mars and Murrie, the last names of the candy’s founders.
+A crocodile's tongue is immobile, and it cannot stick its tongue out.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
