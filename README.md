@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some species of bats can live for more than 30 years.
+The electric eel can produce a shock of up to 600 volts.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
