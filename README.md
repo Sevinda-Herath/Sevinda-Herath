@@ -93,7 +93,12 @@ Seahorses mate for life, and the males carry the babies.
     <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevinda-herath&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
-<h2>This is me Chiken</h2>
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@SevindaHerath/30-nites-of-code)  
-  ![@SevindaHerath #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SevindaHerath)
+<br/>
+<br/>
+<h2 align="center">This is Me Chiken - "Carlos" (He is from #30NitesOfCode)</h2>
+<div align="center">
+    
+![@SevindaHerath #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SevindaHerath)
+
+[Check out my progress!](https://www.codedex.io/@SevindaHerath/30-nites-of-code)  
+</div>
