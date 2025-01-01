@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Tigers are excellent swimmers and can swim several kilometers at a time.
+Male lions sleep up to 20 hours a day.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
