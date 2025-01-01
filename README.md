@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A blue whale's tongue can weigh more than an elephant.
+Elephants can smell water from up to 12 miles away.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
