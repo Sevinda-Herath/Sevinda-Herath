@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A crocodile's tongue is immobile, and it cannot stick its tongue out.
+A blue whale's tongue can weigh more than an elephant.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
