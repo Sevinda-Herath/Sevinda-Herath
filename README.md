@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-There are more lifeforms living on your skin than there are people on Earth.
+A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
