@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sloths can take up to a month to digest food.
+The world's oldest toy is a stick.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
