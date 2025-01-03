@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Cows have four stomachs to help them digest their food.
+Tomatoes were once considered poisonous in Europe.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
