@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans shed about 600,000 particles of skin every hour.
+A blue whale’s heart can weigh as much as a car.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
