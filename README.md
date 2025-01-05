@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A blue whale’s heart can weigh as much as a car.
+The shortest complete sentence in the English language is 'Go.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
