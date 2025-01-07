@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The world's oldest toy is a stick.
+A group of giraffes is called a 'tower.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
