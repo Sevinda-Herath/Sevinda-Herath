@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The shortest commercial flight in the world is 57 seconds long.
+A single strand of human hair can support up to 100 grams in weight.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
