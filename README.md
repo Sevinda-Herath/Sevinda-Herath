@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The male seahorse is the one that gives birth, not the female.
+Tigers have striped skin, not just striped fur.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
