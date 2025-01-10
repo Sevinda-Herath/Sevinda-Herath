@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Mosquitoes are attracted to people who have just eaten bananas.
+The longest recorded flight of a chicken lasted 13 seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
