@@ -95,10 +95,10 @@ The electric eel can produce a shock of up to 600 volts.
 </div>
 <br/>
 <br/>
-<h2 align="center">This is Me Chiken - "Carlos" (He is from #30NitesOfCode)</h2>
+<!-- <h2 align="center">This is Me Chiken - "Carlos" (He is from #30NitesOfCode)</h2>
 <div align="center">
     
 ![@SevindaHerath #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SevindaHerath)
 
 [Check out my progress!](https://www.codedex.io/@SevindaHerath/30-nites-of-code)  
-</div>
+</div> -->
