@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The electric eel can produce a shock of up to 600 volts.
+Tigers' skin is striped, just like their fur.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
