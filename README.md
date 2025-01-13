@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Ketchup was once used as medicine.
+A goldfish can live up to 40 years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
