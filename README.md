@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A single strand of human hair can support up to 100 grams in weight.
+The average person walks the equivalent of five times around the world in their lifetime.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
