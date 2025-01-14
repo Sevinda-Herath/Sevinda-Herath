@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus's blood is blue due to high copper levels.
+The sloth's digestive process can take up to a month to complete.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
