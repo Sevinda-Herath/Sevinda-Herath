@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans share about 98.7% of their DNA with chimpanzees.
+The giant squid has the largest eyes in the animal kingdom, up to 10 inches in diameter.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
