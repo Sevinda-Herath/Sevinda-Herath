@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
+In a room of 23 people, there's a 50% chance two people share the same birthday.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
