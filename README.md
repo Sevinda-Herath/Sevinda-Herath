@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Tigers' skin is striped, just like their fur.
+Penguins can drink seawater; they have a gland that filters out the salt.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
