@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The electric eel can produce a shock of up to 600 volts.
+A flea can jump 350 times its body length.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
