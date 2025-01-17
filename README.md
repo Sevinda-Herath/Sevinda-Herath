@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sharks have been around longer than trees.
+Spiders can regrow lost legs.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
