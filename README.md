@@ -49,10 +49,8 @@ A flea can jump 350 times its body length.
   </tr>
 </table>
 </div>
-
 <br/>
 <br/>
-
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; padding-right: 20px; width: 300px;">
@@ -70,10 +68,8 @@ A flea can jump 350 times its body length.
     </td>
   </tr>
 </table>
-
 <br/>
 <br/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -90,7 +86,6 @@ A flea can jump 350 times its body length.
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sevinda-herath&theme=gotham&rank_icon=github&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="streak stats"/> &nbsp;&nbsp;&nbsp;
   <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=Sevinda-Herath&theme=tokyonight&hide_border=true" alt="streak stats"/>
     <br/>
-![Sevinda-Herath's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sevinda-Herath&theme=tokyonight&hide_border=true) 
     <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevinda-herath&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
