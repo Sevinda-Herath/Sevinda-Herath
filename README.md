@@ -88,8 +88,9 @@ The electric eel can produce a shock of up to 600 volts.
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sevinda-herath&theme=gotham&rank_icon=github&show_icons=true&hide_border=false&count_private=true&border_radius=10" alt="streak stats"/> &nbsp;&nbsp;&nbsp;
-  <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=sevinda-herath&theme=gotham&hide_border=false&border_radius=10" alt="streak stats"/>
+  <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=Sevinda-Herath&theme=tokyonight&hide_border=true" alt="streak stats"/>
     <br/>
+![Sevinda-Herath's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sevinda-Herath&theme=tokyonight&hide_border=true) 
     <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevinda-herath&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
