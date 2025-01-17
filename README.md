@@ -93,12 +93,3 @@ Butterflies taste with their feet.
     <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevinda-herath&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
-<br/>
-<br/>
-<!-- <h2 align="center">This is Me Chiken - "Carlos" (He is from #30NitesOfCode)</h2>
-<div align="center">
-    
-![@SevindaHerath #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SevindaHerath)
-
-[Check out my progress!](https://www.codedex.io/@SevindaHerath/30-nites-of-code)  
-</div> -->
