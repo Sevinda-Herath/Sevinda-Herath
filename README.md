@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Spiders can regrow lost legs.
+The world's largest snowflake on record was 15 inches wide and 8 inches thick.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
