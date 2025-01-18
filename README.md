@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Dolphins have names for each other.
+A cockroach can live for a week without its head.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
