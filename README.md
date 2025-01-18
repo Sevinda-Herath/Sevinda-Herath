@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A jellyfish can evaporate in the sun because it is 95% water.
+Hummingbirds flap their wings about 80 times per second.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
