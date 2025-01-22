@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Hummingbirds are the only birds that can fly backward.
+Sea otters hold hands while sleeping to avoid drifting apart.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
