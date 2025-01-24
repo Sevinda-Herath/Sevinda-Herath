@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average adult human has about 100,000 miles of blood vessels in their body.
+A single strand of human hair can support up to 100 grams in weight.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
