@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can leap up to 9 feet out of the water.
+Humans share around 60% of their DNA with fruit flies.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
