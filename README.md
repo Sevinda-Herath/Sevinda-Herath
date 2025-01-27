@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans share around 60% of their DNA with fruit flies.
+A snail's mouth is no larger than the head of a pin, but it can contain over 25,000 teeth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
