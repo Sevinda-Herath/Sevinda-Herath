@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Tigers are excellent swimmers and can swim several kilometers at a time.
+A shrimp's heart is located in its head.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
