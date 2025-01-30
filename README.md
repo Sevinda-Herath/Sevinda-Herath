@@ -84,7 +84,7 @@ A group of jellyfish is called a 'smack.'
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sevinda-herath&theme=tokyonight&rank_icon=github&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/> &nbsp;&nbsp;&nbsp;
-  <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=Sevinda-Herath&theme=dracula&hide_border=true" alt="streak stats"/>
+  <img width=412 src="https://streak-stats.demolab.com/?user=Sevinda-Herath&theme=dracula&hide_border=true" alt="streak stats"/>
     <br/>
     <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevinda-herath&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
