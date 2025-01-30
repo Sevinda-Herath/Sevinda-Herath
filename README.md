@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A single strand of human hair can support up to 100 grams in weight.
+Hummingbirds are the only birds that can fly backward.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
