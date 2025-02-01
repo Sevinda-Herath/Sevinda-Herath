@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea stars (starfish) have no brains and no blood.
+There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
