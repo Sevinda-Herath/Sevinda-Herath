@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A blue whale's tongue weighs as much as an elephant.
+A day on Venus is longer than its year.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
