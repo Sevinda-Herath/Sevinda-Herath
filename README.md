@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The fingerprints of a koala are so similar to humans that they could taint crime scenes.
+A blue whale's tongue weighs as much as an elephant.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
