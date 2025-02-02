@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average person walks the equivalent of five times around the world in their lifetime.
+A bolt of lightning is five times hotter than the surface of the sun.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
