@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Dolphins have names for each other.
+A housefly hums in the key of F.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
