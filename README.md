@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The electric eel can produce a shock of up to 600 volts.
+The longest recorded flight of a chicken is 13 seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
