@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans and giraffes have the same number of neck vertebrae—seven.
+Mosquitoes are attracted to people who have just eaten bananas.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
