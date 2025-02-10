@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans share about 98.7% of their DNA with chimpanzees.
+Male lions sleep up to 20 hours a day.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
