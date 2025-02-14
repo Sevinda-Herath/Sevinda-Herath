@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Crocodiles can go for months without eating a meal.
+Ants can carry up to 50 times their own body weight.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
