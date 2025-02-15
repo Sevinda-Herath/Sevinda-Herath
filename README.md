@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea stars (starfish) have no brains and no blood.
+Some hummingbirds weigh less than a penny.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
