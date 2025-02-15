@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Horses can sleep both standing up and lying down.
+The shortest commercial flight in the world is 57 seconds long.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
