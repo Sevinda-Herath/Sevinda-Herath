@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some species of bats can live for more than 30 years.
+Penguins propose to their mates with a pebble.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
