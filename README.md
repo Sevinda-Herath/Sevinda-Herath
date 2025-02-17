@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A dragonfly has a 360-degree field of vision.
+The first oranges weren’t orange—they were green.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
