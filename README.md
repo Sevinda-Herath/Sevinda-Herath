@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A single strand of human hair can support up to 100 grams in weight.
+A day on Mars is just over 24 hours long, making it the closest planet to Earth’s day length.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
