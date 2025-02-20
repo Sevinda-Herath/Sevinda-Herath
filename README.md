@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A housefly hums in the key of F.
+The horned lizard can squirt blood from its eyes as a defense mechanism.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
