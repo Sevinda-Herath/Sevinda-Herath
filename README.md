@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus has nine brains—one central brain and one for each arm.
+Butterflies can taste with their feet.A jellyfish is 95% water.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
