@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Dragonflies can fly up to 60 miles per hour.
+The blue whale is the loudest animal on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
