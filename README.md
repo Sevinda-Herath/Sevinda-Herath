@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Dolphins sleep with one eye open to stay alert for predators.
+Cows have best friends and can get stressed when separated.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
