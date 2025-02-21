@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Cows have best friends and can get stressed when separated.
+A group of frogs is called an 'army.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
