@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Butterflies can taste with their feet.A jellyfish is 95% water.
+Penguins propose to their mates with a pebble.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
