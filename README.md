@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The shortest commercial flight in the world is 57 seconds long.
+An ant can survive underwater for up to 24 hours.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
