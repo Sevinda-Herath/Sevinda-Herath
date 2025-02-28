@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The male seahorse is the one that gives birth, not the female.
+Humans share 99.9% of their DNA with every other human.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
