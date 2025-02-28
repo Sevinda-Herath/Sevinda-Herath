@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
+The loudest sound produced by any animal is made by the sperm whale, reaching up to 230 decibels.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
