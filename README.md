@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can drink seawater; they have a gland that filters out the salt.
+The word 'typewriter' is the longest word you can type using only the top row of a keyboard.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
