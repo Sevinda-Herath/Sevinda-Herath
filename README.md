@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The longest recorded flight of a chicken is 13 seconds.
+Hummingbirds are the only birds that can fly backward.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
