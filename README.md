@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A human sneeze can travel at up to 100 miles per hour.
+The male seahorse is the one that gives birth, not the female.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
