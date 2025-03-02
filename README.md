@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Honey never spoils—it’s been found in ancient Egyptian tombs and is still edible.
+There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
