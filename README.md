@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Ketchup was once used as medicine.
+The wood frog can hold its pee for up to eight months.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
