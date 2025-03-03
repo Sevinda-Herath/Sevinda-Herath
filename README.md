@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Koalas sleep up to 22 hours a day.
+Humans share around 60% of their DNA with fruit flies.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
