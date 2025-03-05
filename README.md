@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Dolphins sleep with one eye open to stay alert for predators.
+Sea otters hold hands while sleeping to avoid drifting apart.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
