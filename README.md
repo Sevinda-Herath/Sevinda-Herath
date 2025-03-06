@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A human sneeze can travel at up to 100 miles per hour.
+Elephants can 'hear' with their feet, detecting seismic vibrations.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
