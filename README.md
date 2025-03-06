@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A day on Venus is longer than a year on Venus.
+A sea cucumber can eject its internal organs as a defense mechanism.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
