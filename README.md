@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times.
+A dragonfly can live for up to a year, but it spends most of its life as a nymph underwater.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
