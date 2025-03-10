@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Frogs can't vomit—if they need to, they eject their entire stomach.
+The fingerprints of koalas are almost indistinguishable from humans'.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
