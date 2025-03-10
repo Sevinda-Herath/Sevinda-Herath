@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The planet Uranus was originally named 'George.'
+A flamingo can only eat when its head is upside down.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
