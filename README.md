@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Bananas are berries, but strawberries aren't.
+A cockroach can live for a week without its head.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
