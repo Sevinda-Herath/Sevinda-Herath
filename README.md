@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A bolt of lightning contains enough energy to toast 100,000 slices of bread.
+A newborn kangaroo is small enough to fit inside a teaspoon.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
