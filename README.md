@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Reindeer eyes turn blue in the winter to help them see at lower light levels.
+The average person walks the equivalent of five times around the world in their lifetime.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
