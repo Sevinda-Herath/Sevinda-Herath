@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A newborn kangaroo is small enough to fit inside a teaspoon.
+The smell of freshly cut grass is actually a plant distress call.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
