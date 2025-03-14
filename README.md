@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average person walks the equivalent of five times around the world in their lifetime.
+The word 'typewriter' is the longest word you can type using only the top row of a keyboard.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
