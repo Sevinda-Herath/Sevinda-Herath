@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Wombats have cube-shaped poop to mark their territory.
+The human nose can remember 50,000 different scents.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
