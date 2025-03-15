@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The only letter not appearing in the periodic table is the letter 'J.'
+Humans have jumped farther on the Moon than the highest jump on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
