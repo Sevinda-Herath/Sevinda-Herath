@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some hummingbirds weigh less than a penny.
+Dolphins sleep with one eye open to stay alert for predators.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
