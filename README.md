@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The word 'typewriter' is the longest word you can type using only the top row of a keyboard.
+An octopus's blood is blue due to high copper levels.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
