@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of flamingos is called a 'flamboyance.'
+The word 'typewriter' is the longest word you can type using only the top row of a keyboard.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
