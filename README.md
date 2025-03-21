@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Reindeer eyes turn blue in the winter to help them see at lower light levels.
+A sea cucumber can eject its internal organs as a defense mechanism.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
