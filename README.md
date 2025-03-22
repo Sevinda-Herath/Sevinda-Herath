@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Male lions sleep up to 20 hours a day.
+Some turtles can breathe through their skin.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
