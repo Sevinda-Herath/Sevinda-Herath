@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans are the only animals that blush.
+The Eiffel Tower was initially meant to be dismantled after 20 years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
