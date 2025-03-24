@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Bamboo can grow up to 3 feet in a single day.
+Humans shed about 600,000 particles of skin every hour.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
