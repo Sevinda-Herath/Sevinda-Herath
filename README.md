@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Crocodiles can go for months without eating a meal.
+The word 'dreamt' is the only word in the English language that ends with 'mt.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
