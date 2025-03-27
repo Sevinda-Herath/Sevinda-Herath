@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans shed about 600,000 particles of skin every hour.
+The light from the sun takes about 8 minutes to reach Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
