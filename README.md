@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some species of bats can live for more than 30 years.
+Mosquitoes are attracted to people who have just eaten bananas.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
