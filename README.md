@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A shrimp's heart is located in its head.
+Rats and mice are ticklish and enjoy being tickled.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
