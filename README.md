@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A single cloud can weigh more than 1 million pounds.
+The world's smallest fruit is the Wolffia globosa, or watermeal, which is the size of a grain of sand.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
