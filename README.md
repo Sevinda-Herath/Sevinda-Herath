@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The light from the sun takes about 8 minutes to reach Earth.
+The Eiffel Tower can grow more than 6 inches during summer due to heat expansion.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
