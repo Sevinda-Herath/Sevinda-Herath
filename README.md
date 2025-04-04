@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A day on Mars is just over 24 hours long, making it the closest planet to Earth’s day length.
+Cleopatra lived closer in time to the invention of the iPhone than to the construction of the Great Pyramid.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
