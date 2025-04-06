@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea otters hold hands while sleeping to avoid drifting apart.
+A blue whale's tongue can weigh more than an elephant.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
