@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The only letter not appearing in the periodic table is the letter 'J.'
+Tomatoes were once considered poisonous in Europe.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
