@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Octopuses have copper-based blood, which turns blue when exposed to oxygen.
+The longest recorded flight of a chicken is 13 seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
