@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Butterflies can see ultraviolet light.
+Horses can sleep both standing up and lying down.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
