@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Male seahorses carry the babies instead of females.
+The blue whale is the loudest animal on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
