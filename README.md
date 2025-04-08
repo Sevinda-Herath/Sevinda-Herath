@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some species of ant can create 'living bridges' by linking their bodies together.
+Pineapples take about two years to grow.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
