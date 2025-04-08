@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Starfish have no brains or blood.
+There are more lifeforms living on your skin than there are people on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
