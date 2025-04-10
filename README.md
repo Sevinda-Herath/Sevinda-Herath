@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average human body contains enough fat to make seven bars of soap.
+The average adult human has about 100,000 miles of blood vessels in their body.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
