@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Ketchup was once used as medicine.
+Tigers have striped skin, not just striped fur.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
