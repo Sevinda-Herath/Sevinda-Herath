@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-There are more stars in the universe than grains of sand on Earth.
+The shortest war in history lasted 38 to 45 minutes between Britain and Zanzibar in 1896.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
