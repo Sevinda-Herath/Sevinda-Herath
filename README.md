@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Snails can sleep for up to three years.
+A newborn blue whale gains about 200 pounds per day.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
