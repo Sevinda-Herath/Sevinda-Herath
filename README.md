@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-There are more stars in the universe than grains of sand on Earth.
+Frogs absorb water through their skin, so they don’t need to drink.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
