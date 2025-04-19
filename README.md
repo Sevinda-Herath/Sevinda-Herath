@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Cats have over 100 vocal sounds, while dogs have only about 10.
+The fingerprints of a koala are almost indistinguishable from a human's.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
