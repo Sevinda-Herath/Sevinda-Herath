@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Rats and mice are ticklish and enjoy being tickled.
+Coca-Cola was originally green.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
