@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins propose to their mates with a pebble.
+Dolphins have names for each other.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
