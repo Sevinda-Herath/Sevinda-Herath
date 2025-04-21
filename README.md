@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Cows have best friends and can get stressed when separated.
+Polar bear fur is actually transparent, not white.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
