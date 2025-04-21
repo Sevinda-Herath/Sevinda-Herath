@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some cats are allergic to humans.
+Slugs have four noses.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
