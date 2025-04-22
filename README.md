@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some species of bats can live for more than 30 years.
+Humans shed about 600,000 particles of skin every hour.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
