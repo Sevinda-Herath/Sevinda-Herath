@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The largest living organism is a fungus in Oregon, covering over 2,385 acres.
+Reindeer eyes turn blue in the winter to help them see at lower light levels.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
