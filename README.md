@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea stars (starfish) have no brains and no blood.
+A kangaroo can't hop if its tail is lifted off the ground.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
