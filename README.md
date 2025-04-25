@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some species of bats can live for more than 30 years.
+A single cloud can weigh more than 1 million pounds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
