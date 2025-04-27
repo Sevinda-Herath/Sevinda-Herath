@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A blue whale's tongue can weigh more than an elephant.
+The fingerprints of a koala are almost indistinguishable from a human's.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
