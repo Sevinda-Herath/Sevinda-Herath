@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A day on Venus is longer than its year.
+Cows can produce more milk when they listen to slow music.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
