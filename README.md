@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can leap up to 9 feet out of the water.
+The Eiffel Tower can grow more than 6 inches during summer due to heat expansion.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
