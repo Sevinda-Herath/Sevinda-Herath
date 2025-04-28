@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The Eiffel Tower can grow more than 6 inches during summer due to heat expansion.
+The fingerprints of koalas are almost indistinguishable from humans'.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
