@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-There are more bacteria in your mouth than there are people on Earth.
+A giraffe can clean its ears with its 21-inch tongue.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
