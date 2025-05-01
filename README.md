@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Horses can sleep both standing up and lying down.
+Penguins can leap up to 9 feet out of the water.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
