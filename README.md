@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Koalas sleep up to 22 hours a day.
+The only mammals capable of flight are bats.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
