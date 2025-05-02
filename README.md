@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Giraffes have no vocal cords.
+A shrimp's heart is located in its head.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
