@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea otters hold hands while sleeping to avoid drifting apart.
+Giraffes have no vocal cords.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
