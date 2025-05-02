@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Honey never spoils—it’s been found in ancient Egyptian tombs and is still edible.
+Octopuses have copper-based blood, which turns blue when exposed to oxygen.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
