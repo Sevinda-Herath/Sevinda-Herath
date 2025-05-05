@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Elephants can smell water from up to 12 miles away.
+Some species of ant can create 'living bridges' by linking their bodies together.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
