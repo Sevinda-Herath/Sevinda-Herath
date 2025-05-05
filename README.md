@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average person walks the equivalent of five times around the world in their lifetime.
+Sea stars (starfish) have no brains and no blood.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
