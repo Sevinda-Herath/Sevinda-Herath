@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can drink seawater; they have a gland that filters out the salt.
+The Amazon rainforest produces 20% of the world’s oxygen supply.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
