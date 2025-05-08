@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Bamboo can grow up to 3 feet in a single day.
+Sharks are the only fish that can blink with both eyes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
