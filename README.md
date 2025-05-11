@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Seahorses mate for life, and the males carry the babies.
+Bananas are naturally radioactive due to their potassium content.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
