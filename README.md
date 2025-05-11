@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The giant Pacific octopus has three hearts and blue blood.
+Mosquitoes are attracted to people who have just eaten bananas.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
