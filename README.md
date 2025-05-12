@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The sloth's digestive process can take up to a month to complete.
+The pupil of a goat’s eye is rectangular, not round.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
