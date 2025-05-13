@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Elephants can smell water from up to 12 miles away.
+Reindeer eyes turn blue in the winter to help them see at lower light levels.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
