@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Reindeer eyes turn blue in the winter to help them see at lower light levels.
+Bees communicate by dancing.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
