@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average human body contains enough fat to make seven bars of soap.
+A cat's purr has been shown to have healing properties.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
