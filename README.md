@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Hummingbirds flap their wings about 80 times per second.
+Some species of ant can create 'living bridges' by linking their bodies together.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
