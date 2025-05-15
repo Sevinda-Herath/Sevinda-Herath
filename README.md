@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The loudest sound produced by any animal is made by the sperm whale, reaching up to 230 decibels.
+There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
