@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Dragonflies can fly up to 60 miles per hour.
+Bananas are naturally radioactive due to their potassium content.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
