@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A day on Venus is longer than its year.
+Polar bear fur is actually transparent, not white.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
