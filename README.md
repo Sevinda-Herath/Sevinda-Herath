@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-In a room of 23 people, there's a 50% chance two people share the same birthday.
+A giraffe can clean its ears with its 21-inch tongue.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
