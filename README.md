@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A giraffe can clean its ears with its 21-inch tongue.
+Tigers are excellent swimmers and can swim several kilometers at a time.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
