@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Frogs absorb water through their skin, so they don’t need to drink.
+Pigeons can recognize themselves in a mirror.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
