@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Frogs can't vomit—if they need to, they eject their entire stomach.
+There's a species of jellyfish that can age backward, potentially living forever.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
