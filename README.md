@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A giraffe can clean its ears with its 21-inch tongue.
+A giraffe’s tongue is so long it can lick its own ears.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
