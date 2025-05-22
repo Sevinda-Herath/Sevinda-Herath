@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some hummingbirds weigh less than a penny.
+Crocodiles can go for months without eating a meal.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
