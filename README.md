@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A bolt of lightning contains enough energy to toast 100,000 slices of bread.
+Humans share 99.9% of their DNA with every other human.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
