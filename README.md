@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Pigeons can learn to recognize all 26 letters of the English alphabet.
+The fingerprints of a koala are so similar to humans that they could taint crime scenes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
