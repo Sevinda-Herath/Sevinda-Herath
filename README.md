@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The world's oldest toy is a stick.
+The world's largest snowflake on record was 15 inches wide and 8 inches thick.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
