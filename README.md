@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans share 99.9% of their DNA with every other human.
+The word 'typewriter' is the longest word you can type using only the top row of a keyboard.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
