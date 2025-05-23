@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of porcupines is called a 'prickle.'
+A group of ferrets is called a 'business.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
