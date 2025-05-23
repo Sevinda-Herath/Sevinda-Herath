@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Koalas sleep up to 22 hours a day.
+A rhinoceros's horn is made entirely of keratin, the same substance as human hair and nails.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
