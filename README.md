@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An ostrich's eye is bigger than its brain.
+A blue whale's tongue weighs as much as an elephant.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
