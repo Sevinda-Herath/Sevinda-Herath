@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some turtles can breathe through their butts.
+A chameleon's tongue is twice the length of its body.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
