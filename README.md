@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A bat can eat up to 1,000 mosquitoes in a single hour.
+Humans share 99.9% of their DNA with every other human.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
