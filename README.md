@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The fingerprints of koalas are almost indistinguishable from humans'.
+The tongue of a blue whale weighs as much as an elephant.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
