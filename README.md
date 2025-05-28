@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The fingerprints of a koala are so similar to humans that they could taint crime scenes.
+A single strand of human hair can support up to 100 grams in weight.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
