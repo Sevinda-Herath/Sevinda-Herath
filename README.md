@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A blue whale's tongue weighs as much as an elephant.
+The average human body contains enough fat to make seven bars of soap.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
