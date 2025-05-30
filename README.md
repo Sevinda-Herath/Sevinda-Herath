@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The electric eel can produce a shock of up to 600 volts.
+The fingerprints of a koala are so similar to humans that they could taint crime scenes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
