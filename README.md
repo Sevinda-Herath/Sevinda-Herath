@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An ant can survive underwater for up to 24 hours.
+A bolt of lightning is five times hotter than the surface of the sun.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
