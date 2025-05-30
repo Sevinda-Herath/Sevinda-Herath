@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A dragonfly can live for up to a year, but it spends most of its life as a nymph underwater.
+The human nose can remember 50,000 different scents.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
