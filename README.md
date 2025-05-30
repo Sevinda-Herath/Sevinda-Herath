@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cockroach can live for a week without its head.
+A dragonfly can live for up to a year, but it spends most of its life as a nymph underwater.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
