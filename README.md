@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Snakes can help predict earthquakes.
+A group of flamingos is called a 'flamboyance.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
