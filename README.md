@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can drink seawater; they have a gland that filters out the salt.
+A day on Mars is just over 24 hours long, making it the closest planet to Earth’s day length.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
