@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The longest hiccuping spree lasted 68 years.
+Bananas are berries, but strawberries aren't.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
