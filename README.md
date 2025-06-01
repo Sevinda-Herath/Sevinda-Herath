@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The Eiffel Tower can grow more than 6 inches during summer due to heat expansion.
+There's enough DNA in the human body to stretch from the sun to Pluto and back—17 times.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
