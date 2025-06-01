@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The horned lizard can squirt blood from its eyes as a defense mechanism.
+Male seahorses carry the babies instead of females.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
