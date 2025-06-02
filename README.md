@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Coca-Cola was originally green.
+The giant Pacific octopus has three hearts and blue blood.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
