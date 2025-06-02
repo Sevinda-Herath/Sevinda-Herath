@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Pigeons can learn to recognize all 26 letters of the English alphabet.
+Humans share 60% of their DNA with bananas.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
