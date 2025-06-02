@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sharks are the only fish that can blink with both eyes.
+You can hear a blue whale's heartbeat from over 2 miles away.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
