@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The world's smallest fruit is the Wolffia globosa, or watermeal, which is the size of a grain of sand.
+Sharks are the only fish that can blink with both eyes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
