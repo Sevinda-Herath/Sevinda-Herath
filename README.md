@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Ants can carry up to 50 times their own body weight.
+Tigers' skin is striped, just like their fur.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
