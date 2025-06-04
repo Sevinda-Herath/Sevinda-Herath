@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Reindeer eyes turn blue in the winter to help them see at lower light levels.
+The male seahorse is the one that gives birth, not the female.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
