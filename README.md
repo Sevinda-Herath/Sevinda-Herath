@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An ostrich's eye is bigger than its brain.
+Frogs absorb water through their skin, so they don’t need to drink.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
