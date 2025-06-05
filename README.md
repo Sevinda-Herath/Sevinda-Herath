@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Honey never spoils—it’s been found in ancient Egyptian tombs and is still edible.
+A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
