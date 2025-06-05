@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Cleopatra lived closer in time to the invention of the iPhone than to the construction of the Great Pyramid.
+Humans shed about 600,000 particles of skin every hour.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
