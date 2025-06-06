@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The longest recorded flight of a chicken is 13 seconds.
+Sloths can take up to a month to digest food.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
