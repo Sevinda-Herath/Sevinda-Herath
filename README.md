@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A single cloud can weigh more than 1 million pounds.
+The fingerprints of a koala are so similar to humans that they could taint crime scenes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
