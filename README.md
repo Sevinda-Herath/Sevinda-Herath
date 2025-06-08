@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some species of ant can create 'living bridges' by linking their bodies together.
+A flea can jump 350 times its body length.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
