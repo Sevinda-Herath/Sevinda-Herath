@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some turtles can breathe through their skin.
+Koalas sleep up to 22 hours a day.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
