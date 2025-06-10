@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of pandas is called an 'embarrassment.'
+Horses can sleep both standing up and lying down.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
