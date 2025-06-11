@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Flamingos bend their legs at the ankle, not the knee.
+A blue whale's tongue can weigh more than an elephant.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
