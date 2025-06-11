@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Coca-Cola was originally green.
+Flamingos bend their legs at the ankle, not the knee.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
