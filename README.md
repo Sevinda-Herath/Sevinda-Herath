@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The horned lizard can squirt blood from its eyes as a defense mechanism.
+A day on Venus is longer than its year.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
