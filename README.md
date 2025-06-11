@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The shortest war in history lasted 38 to 45 minutes between Britain and Zanzibar in 1896.
+The horned lizard can squirt blood from its eyes as a defense mechanism.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
