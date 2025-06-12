@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The word 'dreamt' is the only word in the English language that ends with 'mt.'
+Cleopatra lived closer in time to the invention of the iPhone than to the construction of the Great Pyramid.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
