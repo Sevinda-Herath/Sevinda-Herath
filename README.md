@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Elephants can 'hear' with their feet, detecting seismic vibrations.
+Seahorses mate for life, and the males carry the babies.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
