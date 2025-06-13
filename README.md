@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sharks are immune to all known diseases.
+Sharks can detect a drop of blood in the ocean from up to a mile away.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
