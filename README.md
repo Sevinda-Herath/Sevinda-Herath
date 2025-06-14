@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of ravens is called an 'unkindness.'
+Humans are the only animals that blush.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
