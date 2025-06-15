@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus has nine brains—one central brain and one for each arm.
+A kangaroo can't hop if its tail is lifted off the ground.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
