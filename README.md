@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Some hummingbirds weigh less than a penny.
+The fingerprints of koalas are almost indistinguishable from humans'.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
