@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The longest recorded flight of a chicken is 13 seconds.
+There are more stars in space than there are grains of sand on every beach on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
