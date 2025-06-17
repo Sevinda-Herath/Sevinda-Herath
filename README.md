@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The wood frog can hold its pee for up to eight months.
+The shortest complete sentence in the English language is 'Go.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
