@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of porcupines is called a 'prickle.'
+The blue whale is the loudest animal on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
