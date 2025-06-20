@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus's blood is blue due to high copper levels.
+Jellyfish are considered biologically immortal—they don't age and can regenerate cells.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
