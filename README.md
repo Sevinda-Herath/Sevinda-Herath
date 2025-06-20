@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The planet Uranus was originally named 'George.'
+A newborn kangaroo is small enough to fit inside a teaspoon.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
