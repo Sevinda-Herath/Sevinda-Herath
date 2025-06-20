@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sharks are immune to all known diseases.
+Sea stars (starfish) have no brains and no blood.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
