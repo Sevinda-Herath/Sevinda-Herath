@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Wombat poop is cube-shaped.
+Humans shed about 600,000 particles of skin every hour.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
