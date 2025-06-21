@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sharks are the only fish that can blink with both eyes.
+Koalas sleep up to 22 hours a day.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
