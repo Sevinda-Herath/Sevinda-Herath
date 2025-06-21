@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Humans share 99.9% of their DNA with every other human.
+A group of ferrets is called a 'business.'
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
