@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea stars (starfish) have no brains and no blood.
+A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
