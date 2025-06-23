@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The only mammals capable of flight are bats.
+Horses and cows can sleep standing up, but they can only dream lying down.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
