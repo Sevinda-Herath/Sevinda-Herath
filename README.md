@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An ostrich's eye is bigger than its brain.
+Some species of bats can live for more than 30 years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
