@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus has nine brains—one central brain and one for each arm.
+Cleopatra lived closer in time to the invention of the iPhone than to the construction of the Great Pyramid.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
