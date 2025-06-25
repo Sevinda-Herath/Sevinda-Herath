@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sharks can detect a drop of blood in the ocean from up to a mile away.
+Tigers have striped skin, not just striped fur.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
