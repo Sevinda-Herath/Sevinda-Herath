@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The word 'dreamt' is the only word in the English language that ends with 'mt.'
+A day on Venus is longer than a year on Venus.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
