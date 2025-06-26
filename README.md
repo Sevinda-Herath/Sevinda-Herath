@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-There are more fake flamingos in the world than real ones.
+Pigeons were trained to deliver messages in wartime and could fly up to 600 miles to reach their destination.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
