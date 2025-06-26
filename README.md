@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Pigeons can recognize themselves in a mirror.
+There are more fake flamingos in the world than real ones.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
