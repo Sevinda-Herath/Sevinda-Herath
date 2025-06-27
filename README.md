@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Wombat poop is cube-shaped.
+Cleopatra lived closer in time to the invention of the iPhone than to the construction of the Great Pyramid.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
