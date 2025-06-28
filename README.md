@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-<h2 align="center">Fun Fact of the Hour</h2>
+<h2 align="center">Fun Fact of the Day</h2>
 <div align="center">
     <br/>
 <table>
