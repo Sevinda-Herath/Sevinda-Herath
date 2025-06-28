@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Reindeer eyes turn blue in the winter to help them see at lower light levels.
+Butterflies can taste with their feet.A jellyfish is 95% water.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
