@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A cat's purr has been shown to have healing properties.
+Tomatoes were once considered poisonous in Europe.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
