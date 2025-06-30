@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Tomatoes were once considered poisonous in Europe.
+Rats and mice are ticklish and enjoy being tickled.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
