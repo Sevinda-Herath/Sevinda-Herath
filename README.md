@@ -25,7 +25,7 @@
     <td style="border: none; vertical-align: top; padding-right: 20px;">
       <h2>About Me</h2>
       <p>
-        Passionate Cybersecurity and AI enthusiast. Fueled by curiosity and a commitment to creating impact, I am devoted to shaping a future that is both secure and intelligent.
+        Passionate Cybersecurity and AI enthusiast. Fueled by curiosity and a commitment to creating impact. I’m always working to improve my skills, whether it's by studying new topics, working on projects, or exploring real-world applications.
       </p>
     </td>
     <td style="border: none; vertical-align: top;">
@@ -59,11 +59,13 @@ There are more stars in space than there are grains of sand on every beach on Ea
     <td style="border: none; vertical-align: top; width: 600px;">
       <h2>Contact Me</h2> 
         <p>
-        <strong>Website:</strong> <a href="https://sevinda-herath.github.io">sevinda-herath.is-a.dev</a><br/>
-        <strong>Email:</strong> <a href="mailto:sevindaherath@gmail.com"target="_blank">sevindaherath@gmail.com</a><br/>
+        I’m always open to new ideas, collaborations, feedback, or just a good conversation — feel free to reach out anytime for a quick chat or a deep discussion!
+        <br/><br/>
+        <strong>Website:</strong> <a href="https://sevinda-herath.is-a.dev">sevinda-herath.is-a.dev</a>
+        <br/>
+        <strong>Email:</strong> <a href="mailto:info@sevinda-herath.is-a.dev"target="_blank">info@sevinda-herath.is-a.dev</a><br/>
         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sevindaherath/" target="_blank">Sevinda Herath</a><br/>
         <strong>Discord:</strong> <a href="https://discord.com/users/1269947570214535301" target="_blank">Sevinda Herath</a><br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
         </p>    
     </td>
   </tr>
