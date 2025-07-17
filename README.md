@@ -12,7 +12,7 @@
     <img src = "https://github.com/user-attachments/assets/fc2aedc0-227b-4a6f-9833-730c2969e950" width = "55">
     <img src = "https://github.com/user-attachments/assets/3f5fedd2-0540-4422-b3b3-fff4e728a9bb" width = "55">
     <img src = "https://github.com/user-attachments/assets/d6bfbb36-c458-48eb-8aac-43fcbef5812e" width = "45"><br>
-    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,react,java,mysql,c" /><br>
     <img src = "https://github.com/user-attachments/assets/171c9158-1392-4e15-a2c7-83a883487420" width = "45">
     <img src = "https://github.com/user-attachments/assets/d24674ba-c4e1-4edd-a2ee-f7b72df20b4c" width = "45">
     <img src = "https://github.com/user-attachments/assets/2cbe786c-e0d0-4260-bc39-211c5d9f2c89" width = "45">    
