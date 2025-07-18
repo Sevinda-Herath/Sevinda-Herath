@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The smell of freshly cut grass is actually a plant distress call.
+Jellyfish are considered biologically immortal—they don't age and can regenerate cells.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
