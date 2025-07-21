@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sloths can take up to a month to digest food.
+Turtles can breathe through their butts.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
