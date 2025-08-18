@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The shortest complete sentence in the English language is 'Go.'
+Polar bear fur is actually transparent, not white.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
