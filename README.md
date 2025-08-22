@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The light from the sun takes about 8 minutes to reach Earth.
+There are more bacteria in your mouth than there are people on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
