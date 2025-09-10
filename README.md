@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The average person walks the equivalent of five times around the world in their lifetime.
+Humans share about 98.7% of their DNA with chimpanzees.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
