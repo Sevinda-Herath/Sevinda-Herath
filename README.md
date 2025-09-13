@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-You can hear a blue whale's heartbeat from over 2 miles away.
+A single strand of spider silk is five times stronger than steel of the same diameter.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
