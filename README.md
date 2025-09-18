@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Tigers are excellent swimmers and can swim several kilometers at a time.
+An ostrich's eye is bigger than its brain.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
