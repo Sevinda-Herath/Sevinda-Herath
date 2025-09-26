@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Elephants are the only animals that can't jump.
+A cat's purr has been shown to have healing properties.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
