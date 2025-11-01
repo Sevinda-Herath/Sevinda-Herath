@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A human sneeze can travel at up to 100 miles per hour.
+Penguins propose to their mates with a pebble.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
