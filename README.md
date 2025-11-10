@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-An octopus's blood is blue due to high copper levels.
+Turtles can breathe through their butts.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
