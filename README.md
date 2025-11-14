@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The Eiffel Tower was initially meant to be dismantled after 20 years.
+Humans share about 98.7% of their DNA with chimpanzees.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
