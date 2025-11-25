@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Earthworms have five hearts.
+The only mammals capable of flight are bats.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
