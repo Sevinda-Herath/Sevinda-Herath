@@ -82,13 +82,13 @@ The moon has moonquakes, just as Earth has earthquakes.
 
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sevinda-herath&theme=tokyonight&rank_icon=github&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/> 
     <br><br>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevinda-herath&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
-</div>
+</div> -->
 
 
 ![](https://hit.yhype.me/github/profile?account_id=119860637)
