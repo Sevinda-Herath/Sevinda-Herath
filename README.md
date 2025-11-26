@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The moon has moonquakes, just as Earth has earthquakes.
+The unicorn is the national animal of Scotland.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
