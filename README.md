@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Coca-Cola was originally green.
+The longest recorded flight of a chicken lasted 13 seconds.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
