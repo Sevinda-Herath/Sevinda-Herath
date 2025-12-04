@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A single cloud can weigh more than 1 million pounds.
+Polar bears are left-handed.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
