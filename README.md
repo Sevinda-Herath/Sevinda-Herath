@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A group of giraffes is called a 'tower.'
+Humans have jumped farther on the Moon than the highest jump on Earth.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
