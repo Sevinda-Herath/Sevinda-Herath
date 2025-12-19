@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The first oranges weren’t orange—they were green.
+The unicorn is the national animal of Scotland.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
