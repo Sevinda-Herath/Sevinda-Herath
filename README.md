@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-A single strand of spider silk is five times stronger than steel of the same diameter.
+Cows have four stomachs to help them digest their food.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
