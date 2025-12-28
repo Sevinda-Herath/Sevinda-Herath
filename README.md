@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The fingerprints of a koala are so similar to humans that they could taint crime scenes.
+Hummingbirds flap their wings about 80 times per second.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
