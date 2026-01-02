@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The praying mantis is the only insect that can turn its head from side to side.
+Cows can produce more milk when they listen to slow music.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
