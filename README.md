@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Sea otters hold hands while sleeping to avoid drifting apart.
+Elephants can 'hear' with their feet, detecting seismic vibrations.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
