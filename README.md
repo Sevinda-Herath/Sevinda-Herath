@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Penguins can drink seawater; they have a gland that filters out the salt.
+The moon has moonquakes, just as Earth has earthquakes.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
