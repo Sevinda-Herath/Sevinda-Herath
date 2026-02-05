@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Jellyfish are considered biologically immortal—they don't age and can regenerate cells.
+A goldfish can live up to 40 years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
