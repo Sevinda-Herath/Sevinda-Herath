@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-It would take 1,200,000 mosquitoes to fully drain a human of blood.
+Goldfish can recognize their owners.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
