@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Butterflies can taste with their feet.A jellyfish is 95% water.
+Cats have over 100 vocal sounds, while dogs have only about 10.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
