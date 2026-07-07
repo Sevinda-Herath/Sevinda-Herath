@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The horned lizard can squirt blood from its eyes as a defense mechanism.
+The longest hiccuping spree lasted 68 years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
