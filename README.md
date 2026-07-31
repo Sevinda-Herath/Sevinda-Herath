@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The unicorn is the national animal of Scotland.
+The longest hiccuping spree lasted 68 years.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
