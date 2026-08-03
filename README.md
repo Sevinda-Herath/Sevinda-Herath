@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Honey never spoils—it’s been found in ancient Egyptian tombs and is still edible.
+Butterflies can taste with their feet.A jellyfish is 95% water.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
