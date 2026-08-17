@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The only letter not appearing in the periodic table is the letter 'J.'
+The fingerprints of a koala are almost indistinguishable from a human's.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
