@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-Earthworms have five hearts.
+An octopus has nine brains—one central brain and one for each arm.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
