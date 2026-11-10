@@ -43,7 +43,7 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <!-- FUN_FACT_SECTION -->
-The human nose can remember 50,000 different scents.
+The electric eel can produce a shock of up to 600 volts.
 <!-- END_FUN_FACT_SECTION -->
     </td>
   </tr>
